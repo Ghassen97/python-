@@ -1,3 +1,4 @@
+#simple LSTM using OBV for price prediction
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
